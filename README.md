@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aditya Thakar</h1>
-<h3 align="center">A passionate Embedded System developer from India</h3>
+<h1 align="center">Namaste 👋, I'm Aditya Thakar</h1>
+<h3 align="center">A passionate Embedded Firmware Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityathakar1" alt="adityathakar1" /> </p>
 
-- 🔭 I’m currently working on **Arm Device Driver**
+- 🔭 Working as a **Full Time Embedded Firmware engineer** since past 2 years
 
-- 🌱 I’m currently learning **Device drivers, python, RTOS**
+- 🌱 I’m currently learning **FreeRTOS and Embedded Linux**
 
-- 💬 Ask me about **anything about arduinos, raspberry pi, embedded projects**
+- 💬 You can take my help on topics like **arduinos, raspberry pi, embedded projects**
 
 - 📫 How to reach me **thakaraditya0@gmail.com**
 
